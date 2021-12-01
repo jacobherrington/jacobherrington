@@ -12,13 +12,6 @@ Eventually, I'll release some fresh content, you can [join my mailing list][mail
 
 You can talk to me on [Twitter][twitter] or [LinkedIn][linkedin]!
 
-<p align="center">
-  <img width="300" alt="Me speaking at a regional conference" src="https://user-images.githubusercontent.com/11466782/144274345-a89638fb-68b5-4d5f-a567-d6814743057c.png">
-  <img width="300" alt="Me leading a MLH workshop" src="https://user-images.githubusercontent.com/11466782/144274500-cfc40438-7ac0-4d38-b3d2-9d2707b60600.png">
-  <br>
-  <img width="400" alt="Me in my natural habitat: chasing seagulls" src="https://user-images.githubusercontent.com/11466782/144271718-a34094c7-05d5-4b7c-8ec8-e2961941fd55.jpg">
-</p>
-
 [artsy]: https://www.artsy.net/about
 [sage_digital]: https://www.sagedigital.com/
 [dev_to]: https://dev.to/jacobherrington
